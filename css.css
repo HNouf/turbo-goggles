@@ -1,0 +1,56 @@
+ *{
+        margin: 0px;
+        padding: 0px;
+        max-width: 100%;
+    }
+
+
+
+header{
+    width: 100vw;
+    height: 90vh;
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.circle{
+    margin: 150px 600px 10px;
+    width: 130px;
+    height: 130px;
+    background-color: #84c0a0 ;
+    opacity: 0.6;
+    border-radius: 50%; 
+
+}
+
+.text{ 
+    margin: 10px 10px 10px;
+    text-align: center;
+    
+}
+.text-one{
+    font-size: 20px;
+    font-style: inherit;
+    color: white;
+    letter-spacing: 3px;/*يعطي مساحه بين الكلام*/
+    text-align: center;
+
+    
+}
+.text-two{
+    font-size: 100px;
+    margin:10px;
+    color: white;
+   
+    text-align: center;
+   
+}
+.text-three{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+
+
+}
